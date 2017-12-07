@@ -13,7 +13,6 @@ def index():
 
 @app.route('/users/<name>')
 def user(name):
-    localtime = time.asctime( time.localtime(time.time()) )
     return render_template('users.html',name=name.upper())
 
 @app.route('/calender')
