@@ -1,7 +1,7 @@
 An Introduction to Flask
 ========================
 I am Patrick Ngobiro and trying to learn Python and Flask
-This repository contains the software that accompanies my O'Reilly training video [An Introduction to Flask](http://bit.ly/flaskintro).
+This repository contains the software that accompanies O'Reilly training video [An Introduction to Flask](http://bit.ly/flaskintro).
 
 [![An Introduction to Flask](https://pbs.twimg.com/profile_images/378800000811491938/b5b04778cad7c90acbab4b8ebc42be4e_400x400.jpeg)](http://bit.ly/flaskintro)
 
